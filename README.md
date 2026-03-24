@@ -5,7 +5,7 @@ Soluções industriais de alta performance e precisão em corte e soldagem para 
 ![Preview do Projeto](landing-page-metalurgica.gif)
 
 ## 🔗 Links Úteis
-🚀 **Site Online:** [https://latorreander.github.io/metalmecanica-precision/](https://latorreander.github.io/metalmecanica-precision/)
+🚀 **Site Online:** (https://latorreander.github.io/landing-page-metalurgica/).
 💼 **Meu LinkedIn:** [Anderson Latorre Cabral](https://www.linkedin.com/in/anderson-latorre-cabral-a48b78201/)
 
 ---
